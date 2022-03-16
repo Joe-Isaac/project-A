@@ -1,0 +1,66 @@
+body {
+    background-image: url("image(1).jpg");
+    background-size: cover;
+    border-top: 150px;
+}
+
+#container {
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+    font-weight: bold;
+    color: floralwhite;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+
+button {
+    width: 200px;
+}
+
+#increment-btn {
+    border: 3px;
+    font-weight: bold;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+    font-size: 30px;
+    padding: auto;
+    margin-left: 410px;
+    border-radius: 10%;
+    background-color: transparent;
+    border-style: inset;
+    color: azure;
+}
+
+#previous {
+    text-align: center;
+    font-family: "Courier New", Courier, monospace;
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    background-color: transparent;
+    margin-left: 40%;
+}
+
+.cont-big {
+    border-radius: 30%;
+    background-color: transparent;
+    text-align: center;
+    color: blanchedalmond;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.cont {
+    border-color: aliceblue;
+    border: 8px 8px;
+    border-style: ridge;
+    margin: 100px;
+}
